@@ -1,0 +1,11 @@
+{
+  "type": "custom-component",
+  "name": "c",
+  "icon": "b",
+  "iconType": "bellini-svg",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": []
+}
