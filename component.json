@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "headings",
+  "name": "headings1",
   "children": [
     {
       "name": "h1",
@@ -12,6 +12,20 @@
           "evaluate": false
         }
       ]
+    },
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": []
     }
   ],
   "variables": [],
