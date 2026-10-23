@@ -12,20 +12,6 @@
           "evaluate": false
         }
       ]
-    },
-    {
-      "name": "Badge",
-      "nodeName": "bln-badge",
-      "attributes": [
-        {
-          "property": "core",
-          "value": ""
-        }
-      ],
-      "classList": [],
-      "children": [],
-      "type": "core-component",
-      "expressions": []
     }
   ],
   "variables": [],
