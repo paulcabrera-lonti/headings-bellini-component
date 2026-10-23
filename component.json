@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "headings1",
+  "name": "headings",
   "children": [
     {
       "name": "h1",
@@ -19,5 +19,10 @@
   "modules": [],
   "styles": [],
   "icon": "header",
-  "iconType": "bellini-svg"
+  "iconType": "bellini-svg",
+  "localStylesheets": [
+    {
+      "path": "style.css"
+    }
+  ]
 }
