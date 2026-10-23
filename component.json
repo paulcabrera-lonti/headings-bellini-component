@@ -1,6 +1,6 @@
 {
   "type": "component",
-  "name": "headings",
+  "name": "headings1",
   "children": [
     {
       "name": "h1",
@@ -9,6 +9,17 @@
         {
           "name": "text",
           "textContent": "h1",
+          "evaluate": false
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "classList": [],
+      "children": [
+        {
+          "name": "text",
+          "textContent": "bold",
           "evaluate": false
         }
       ]
